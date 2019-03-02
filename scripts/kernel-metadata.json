@@ -1,0 +1,13 @@
+{
+  "id": "sejalvaru/FIRST_KERNEL",
+  "title": "FIRST_KERNEL",
+  "code_file": "first.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": ["sejalvaru/FIRST_DATASET"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
