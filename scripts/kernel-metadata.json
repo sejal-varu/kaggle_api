@@ -1,13 +1,1 @@
-{
-  "id": "sejalvaru/FIRST_KERNEL",
-  "title": "FIRST_KERNEL",
-  "code_file": "first.py",
-  "language": "python",
-  "kernel_type": "script",
-  "is_private": "false",
-  "enable_gpu": "false",
-  "enable_internet": "false",
-  "dataset_sources": ["sejalvaru/FIRST_DATASET"],
-  "competition_sources": [],
-  "kernel_sources": []
-}
+{"id": "sejalvaru/titanic-imp-features-kernel", "title": "titanic-imp-features-kernel", "code_file": "titanic_feature_imp.py", "language": "python", "kernel_type": "script", "is_private": "true", "enable_gpu": "false", "enable_internet": "false", "dataset_sources": ["sejalvaru/titanic-imp-features"], "competition_sources": [], "kernel_sources": []}

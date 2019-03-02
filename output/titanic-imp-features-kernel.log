@@ -1,0 +1,5 @@
+[{
+  "data": "                 importance\nfeature                    \nTitle                 0.203\nSex                   0.170\nAge_Class             0.095\nDeck                  0.088\nPclass                0.078\nAge                   0.072\nFare                  0.068\nrelatives             0.062\nEmbarked              0.055\nFare_Per_Person       0.039\nSibSp                 0.036\nParch                 0.023\nnot_alone             0.010\n",
+  "stream_name": "stdout",
+  "time": 4.8506654989905655
+}]
